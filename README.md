@@ -8,3 +8,4 @@ analysis24 is a project intitiated by Tobias Kiesewetter and aims to provide a t
 4. analysis24 and no team member of the project has any access to the executed data. Execution is outsourced to third party cloud service companies like Heroku, AWS or others. The user of analysis24 can choose a service-provider of his trust for rendering the data analysis service.
 5. Financing of this service is provided by donations and advertising. Advertising is clearly marked as those. User profiles are only passed to the advertising companies on a anonymous basis.
 6. Per default user profiles are not generated. If the user wants to generate a user profile for tailored advertising and information, the profile resides in his proprietary login space and can be reviewed or deleted by him at any time.
+
